@@ -1,0 +1,6 @@
+{
+  "name": "EventLens - AI Media Pipelines for Events",
+  "description": "Turn hours of event footage into searchable moments, AI summaries, and shareable Cloudinary highlights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
