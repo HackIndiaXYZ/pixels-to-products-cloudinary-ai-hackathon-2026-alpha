@@ -176,4 +176,6 @@ npm run start
 - **Backend**: Express, Multer, Node.js Stream Pipeline
 - **Media Engine**: Cloudinary Node.js SDK (`cloudinary.v2`)
 - **AI Engine**: Google GenAI SDK (`@google/genai`), Gemini 3.8 Flash
+
+                                                             🧑‍💻@devankit624👨‍💻
 - **Bundler & Dev Server**: Vite with TSX runner
